@@ -1,0 +1,18 @@
+#container{
+	width: 460px;
+	height: 490px;
+	border: 2px solid Black;
+	border-radius: 2%;
+}
+
+.large{
+	font-size: 35px;
+}
+
+.middle{
+	font-size: 25px;
+}
+
+#div{
+	border: 1px solid Black;
+}
