@@ -1,0 +1,15 @@
+#container{
+	width: 1500px;
+	margin-left: auto;
+	margin-right: auto;	
+	border: 2px solid Black;
+	border-radius: 2%;
+}
+
+.large{
+	font-size: 35px;
+}
+
+.middle{
+	font-size: 25px;
+}
